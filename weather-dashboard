@@ -1,0 +1,21 @@
+# Weather Dashboard Application
+
+A responsive web app providing real-time weather updates and a 5-day forecast.
+
+## Technologies Used
+- Frontend: React.js, CSS3
+- API: OpenWeatherMap
+- Deployment: GitHub Pages
+
+## Features
+- City search
+- Weather details
+- Temperature unit switch
+
+## Installation
+```bash
+git clone https://github.com/dzhamal-abdrakhmanov/weather-dashboard.git
+cd weather-dashboard
+npm install
+touch .env # add your OpenWeatherMap API key
+npm start
